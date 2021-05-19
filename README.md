@@ -34,7 +34,7 @@ Hi, :wave: I'm Veysel MUTLU, a passionate self-taught Full Stack web developer a
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
-## Technologies & Tools
+## Languages & Technologies & Tools
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c#" width="50" height="50"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="50" height="50"/>
