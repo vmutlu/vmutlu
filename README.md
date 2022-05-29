@@ -20,9 +20,6 @@ Hi there, :wave: I'm Veysel MUTLU
 <a href="mailto:veysel_mutlu42@hotmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a> 
-<a href="https://api.whatsapp.com/send?phone=905546441225" target="_blank">
-<img src=https://img.shields.io/badge/Whatsapp-0077B5?style=for-the-badge&logo=whatsapp&logoColor=white%20alt=whatsapp%20style=%22margin-bottom:%5px;" />
-</a> 
 
 
 
@@ -39,6 +36,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c#" width="50" height="50"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="50" height="50"/>
 <img src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt="dotnet" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" width="50" height="50" /> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" width="50" height="50" />  
@@ -54,8 +52,26 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <br>
 <img src="https://icongr.am/devicon/git-original-wordmark.svg?size=128&color=currentColor" alt="react" width="50" height="50"/> 
 <img src="https://icongr.am/devicon/github-original-wordmark.svg?size=128&color=currentColor" alt="react" width="50" height="50"/> 
-  
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </p>
+
+### Competencies
+- Backend/RESTful API development with `ASP.NET Core`, `EF Core` and `Dapper ORM`,
+- Good with `Angular and ReactJs` for frontend web development,
+- Good with `JS` and `SQL` as well,
+- Good with `SQL scripting`, `PostgreSQL`, `MSSQL Server`, `MySQL`,`MongoDB`,
+- Good understanding of `SOLID` and `Design Patterns`,
+- Basic exposure to DevOps concepts and platforms such as `CI/CD` with `Azure pipelines`,
+- Familiar with `Microservice Architecture` patterns such as `CQRS` and `Async Messaging`.
+
+## Notable repositories
+
+### Microservice Architecture
+
+[![Microservice Architecture Repo](https://github-readme-stats.vercel.app/api/pin/?username=vmutlu&repo=Dotnet_MicroservicesArchitect)](https://github.com/vmutlu/Dotnet_MicroservicesArchitect)
+
+[![Microservice Architecture Repo](https://github-readme-stats.vercel.app/api/pin/?username=vmutlu&repo=MicroserviceArchitecture)](https://github.com/vmutlu/MicroserviceArchitecture)
+
 
 
 ## Stats
